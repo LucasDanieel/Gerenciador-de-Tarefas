@@ -14,7 +14,7 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucas-daniel-a2b1bb23b/).
 
 ## Construído com
 
-- [React]https://pt-br.reactjs.org/) - React
+- [React](https://pt-br.reactjs.org/) - React
 - [.NET Core](https://dotnet.microsoft.com/) - .NET Core
 - [SignalR](https://dotnet.microsoft.com/apps/aspnet/signalr) - SignalR
 
